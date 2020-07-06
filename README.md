@@ -1,1 +1,1 @@
-# UAV Research center of Ghent University
+# UAV Research center (URC)
