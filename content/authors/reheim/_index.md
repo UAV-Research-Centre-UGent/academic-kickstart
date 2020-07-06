@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Michiel Vlaminck
+title: Rene Heim
 
 # Username (this should match the folder name)
 authors:
-- mvlaminc
+- reheim
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,23 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence and computer vision applied to autonomous robots and UAV's.
+bio: My research interests include Plant Pathology and Functional Ecology.
 
 interests:
-- Artificial Intelligence
-- Computer Vision
-- Hyperspectral Imaging
-- Autonomous Robots
-- UAV
+- Hyperspectral Remote Sensing
+- Machine Learning
+- UAS
+- Plant Pathology
+- Functional Ecology
 
-education:
-  courses:
-  - course: PhD in Computer Science Engineering
-    institution: Ghent University
-    year: 2020
-  - course: MSc in Computer Science Engineering
-    institution: Ghent University
-    year: 2013
+#education:
+#  courses:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,15 +38,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/michielvlaminck
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/michielvlaminck
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=kEtpfRMAAAAJ
+  link: https://scholar.google.co.uk/citations?user=cGT95yoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/Shaws
+  link: https://github.com/ReneHeim
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,5 +61,3 @@ email: ""
 user_groups:
 - Postdoctoral Researchers
 ---
-
-Michiel Vlaminck received his PhD degree in Computer Science Engineering from Ghent University in 2020. Since then, he is working as a postdoctoral researcher at the UAV Research center of Ghent Univerity. He is currently working on the topic of 3D scene reconstruction using active depth sensors. His research focuses on applications in the domains of augmented reality, autonomous robots and UAV.

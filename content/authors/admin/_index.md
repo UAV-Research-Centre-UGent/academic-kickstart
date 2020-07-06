@@ -1,6 +1,6 @@
 ---
 # Display name
-title: UAV Research Center
+title: UAV Research Centre
 
 # Username (this should match the folder name)
 authors:
@@ -38,13 +38,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/UAV-Research-Centre-UGent
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,4 +59,4 @@ email: ""
 #user_groups:
 ---
 
-The UAV Research Center of Ghent University was founded in october 2019. The main research areas include precision agriculture and inspection.
+The UAV Research Center of Ghent University was founded in October 2019. The main research areas include precision agriculture and inspection.
