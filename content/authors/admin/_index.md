@@ -42,9 +42,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=
-- icon: github
-  icon_pack: fab
-  link: https://github.com/UAV-Research-Centre-UGent
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/UAV-Research-Centre-UGent
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,4 +59,4 @@ email: ""
 #user_groups:
 ---
 
-The UAV Research Center of Ghent University was founded in October 2019. The main research areas include precision agriculture and inspection.
+The UAV Research Center was established in 2019 as one of the selected projects of the 21 ZAP call and is a close collaboration between the faculties of Engineering and Architecture, Bioscience Engineering and Sciences. It will focus on sensing technologies with drones through interdisciplinary collaboration and will provide its scientific UAV expertise to all research groups inside and outside UGent.
