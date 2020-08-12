@@ -21,11 +21,11 @@ organizations:
 bio: My research interests include satellite fluorescence, UAV, thermal remote sensing, drought stress and Jatropha curcas.
 
 interests:
-- Satellite fluorescence
-- UAV
-- Thermal remote sensing
-- Drought stress
-- Jatropha curcas
+- UAV remote sensing
+- Precision agriculture
+- Thermal
+- Hyperspectral
+- Sun-Induced Fluorescence
 
 #education:
 #  courses:
@@ -62,10 +62,4 @@ user_groups:
 - Professors
 ---
 
-I have a broad research interest, extending from sustainability of water use over forest ecology and biofuels. However, my main research focus has been the application of thermal remote sensing in terrestrial ecosystems, first mainly ground-based but in the last few years predominantly UAV-based. 
-
-With a master in forest ecology, the focus of my Ph.D. at KULeuven, Belgium was on how thermal remote sensing can be applied for assessing forest functioning and detecting drought stress in terrestrial ecosystems. One of the experimental plants we used in this research was a tropical biofuel crop, Jatropha curcas, which at the time was hyped as a new miracle crop, based on scientifically unfunded claims. This triggered our interest in the crop, leading to several studies on the sustainability of this crop and of biofuels in general. 
-
-After my PhD in 2010, I joint Ghent University and further focused my research on the application of thermal remote sensing in agricultural and natural ecosystems. For this research, we started applying a UAV (or drone), and I specialized in all aspects of UAVs (UAV programming, piloting, maintenance, processing of data, etc).
-
-Joining the Remote Sensing group of Alfredo Huete at UTS, Sydney in 2014 allowed me to broaden my experience of UAVs to multi- and hyperspectral remote sensing, including solar-induced fluorescence. This latter application is the focus of my current project, in which we will mainly use satellite data to estimate evapotranspiration.
+Wouter Maes is tenure track professor in vegetation monitoring with UAVs and co-leads the UGent UAV Research Centre (URC). With a background in forest ecology and plant physiology, he received his PhD in 2010 at KULeuven on thermal remote sensing applications for vegetation monitoring and stress detection. In his postdoc years at UGent and UTS, Sydney, he focused on applying UAVs for thermal and hyperspectral remote sensing, as well as on sun-induced fluorescence. In his current position, he is applying his UAV remote sensing expertise for precision agriculture applications and ecological applications.

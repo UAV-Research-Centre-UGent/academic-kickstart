@@ -38,7 +38,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/URC_UGent
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=
@@ -57,6 +57,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 #user_groups:
+
+#The UAV Research Center was established in 2019 as one of the selected projects of the 21 ZAP call and is a close collaboration between the faculties of Engineering and Architecture, Bioscience Engineering and Sciences. It will focus on sensing technologies with drones through interdisciplinary collaboration and will provide its scientific UAV expertise to all research groups inside and outside UGent.
+
 ---
 
-The UAV Research Center was established in 2019 as one of the selected projects of the 21 ZAP call and is a close collaboration between the faculties of Engineering and Architecture, Bioscience Engineering and Sciences. It will focus on sensing technologies with drones through interdisciplinary collaboration and will provide its scientific UAV expertise to all research groups inside and outside UGent.
+The UAV Research Center (URC) focuses on sensing technologies with drones through interdisciplinary collaboration. We do research on the automation of the drone flight, remote sensing, and data processing, with particular interest in precision agriculture and industrial inspection applications. 
+The URC was established at UGent in 2019 and is a close collaboration between the faculties of Engineering and Architecture, Bioscience Engineering and Sciences.
