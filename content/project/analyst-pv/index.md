@@ -11,6 +11,8 @@ date: 2020-08-10T11:19:54+02:00
 # Optional external URL for project (replaces project detail page).
 external_link:
 
+page_link: /project/analyst-pv
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -23,7 +25,10 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: More info
+  url: /project/analyst-pv
+- name: Project site
   url: https://www.imec-int.com/en/what-we-offer/research-portfolio/analyst-pv
+  icon_pack: fab
 
 url_code: ""
 url_pdf: ""

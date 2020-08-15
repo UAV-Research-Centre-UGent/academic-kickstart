@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "COMP4DRONES"
-summary: ""
+summary: "COMP4DRONES is an ECSEL JU project coordinated by Indra that brings together a consortium of 50 partners with the aim of providing a framework of key enabling technologies for safe and autonomous drones. It brings to bear a holistically designed ecosystem from application to electronic components, realized as a tightly integrated multi-vendor and compositional UAV embedded architecture solution and a tool chain complementing the compositional architecture principles."
 authors: []
 tags: []
 categories: []
@@ -23,6 +23,9 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: More info
+  url: "/project/comp-4-drones"
+  icon_pack: fab
+- name: Project site
   url: https://www.comp4drones.eu/
   icon_pack: fab
 

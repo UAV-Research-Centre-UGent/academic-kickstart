@@ -22,15 +22,15 @@ bio:
 
 # List each interest with a dash
 interests:
+ - Multispectral Remote Sensing 
+ - Image Analysis 
+ - Machine Learning 
+ - UAV
+ - Plant Biochemistry 
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+#education:
+#  courses:
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,3 +63,5 @@ email: ""
 user_groups:
 - PhD Students
 ---
+
+Louis Daniels obtained his master’s degree in Biochemical Engineering Technology in 2019. He is currently working as a PhD researcher on precision agriculture, more specifically on remote sensing of nutrient deficiencies in vineyards through multispectral imaging. His project is funded by VLAIO (Baekeland-mandate) and his promotors are Kris Audenaert (promotor), Wouter Maes (co-promotor) and Yves Dejaegher (co-promotor).
