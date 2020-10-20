@@ -20,11 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# List each interest with a dash
-#interests:
+interests:
+- High Dynamic Range Imaging
+- Computer Vision
+- Image Processing
+- UAV
 
-#education:
-#  courses:
+education:
+  courses:
+  - course: Msc in Computer Science
+    institution: Polytechnic University of Madrid, Spain
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,16 +39,14 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:GonzaloRaimundo.LuzardoMorocho@UGent.be'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://twitter.com/gluzardo
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://scholar.google.com/citations?hl=es&user=XaHpGIkAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,3 +61,5 @@ email: ""
 user_groups:
 - PhD Students
 ---
+
+Ph.D. student Gonzalo Luzardo is a Master in Computer Science. His main research is focusing on improving the image stitching on aerial photographs. He is also a drone hobbyist and an enthusiast of drone racing.
