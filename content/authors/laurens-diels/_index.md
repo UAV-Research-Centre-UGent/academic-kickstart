@@ -23,6 +23,20 @@ bio:
 # List each interest with a dash
 interests:
 
+interests:
+- Artificial Intelligence
+- Computer Vision
+- Mathematics
+
+education:
+  courses:
+  - course: •	MSc in Artificial Intelligence
+    institution: KU Leuven
+    year: 2020
+  - course: MSc in Computer Mathematics
+    institution: KU Leuven
+    year: 2017
+
 #education:
 #  courses:
 
@@ -31,18 +45,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/LaurensDiels/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,3 +62,5 @@ email: ""
 user_groups:
 - PhD Students
 ---
+
+Laurens Diels received his master's degrees in Mathematics and Artificial Intelligence from KU Leuven in 2017 and 2020, respectively. He is currently working as a PhD researcher at the Image Processing and Interpretation research group (IPI) and UAV Research Center (URC) of Ghent University, with Hiep Luong and Wilfried Philips as promotors. His research focuses on the processing of hyperspectral point clouds captured from UAVs.
