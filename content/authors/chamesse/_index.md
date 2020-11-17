@@ -57,3 +57,7 @@ email: ""
 user_groups:
 - PhD Students
 ---
+
+Charles Hamesse received his master's degree in Computer Science Engineering in 2018. He is currently working as a research engineer at the XR Lab of the Royal Military Academy (RMA) and PhD researcher, jointly supervised by professors Hiep Luong (Ghent University) and Rob Haelterman (RMA). 
+
+His research focuses on 3D computer vision and SLAM methods for head-mounted sensors. He also actively takes part in the development of prototype AR/VR systems for Belgian Defence and partner institutions.
