@@ -33,7 +33,7 @@ education:
   - course: •	MSc in Artificial Intelligence
     institution: KU Leuven
     year: 2020
-  - course: MSc in Computer Mathematics
+  - course: MSc in Mathematics
     institution: KU Leuven
     year: 2017
 
