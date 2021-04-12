@@ -37,7 +37,7 @@ education:
   - course: MSc in Ecology
     institution: University of Hamburg
     year: 2015
-  - course: BSc in Bioengineering, 2012
+  - course: BSc in Bioengineering
     institution: University of Applied Sciences, Hamburg
     year: 2012
 
