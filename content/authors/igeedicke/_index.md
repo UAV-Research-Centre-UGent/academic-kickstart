@@ -23,8 +23,11 @@ bio:
 # List each interest with a dash
 interests:
 - Urban ecology
-- Plant ecophysiology
-- Statistics
+- Invasion biology
+- Phylogeny
+- Wetlands
+- Pollution
+- Citizen Science
 
 education:
   courses:
@@ -45,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ina.geedicke@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ina.geedicke@ugent.be'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/geedicke
@@ -70,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a post doctoral associate at the University of Florida in Dr Diane Rowlands lab. My research interests include urban ecology, management strategies and plant ecophysiology. During my career I had the opportunity to work in different anthropogenically influenced ecosystems, i.e. managed heathlands, wetlands in proximity to urban development and agricultural landscapes. I am interested in the impact of human development and involvement on natural systems, their diversity and their physiology.
+Ina Geedicke currently works as a guest scientist affiliated with the University of Ghent. During her PhD, she worked on the impact of human development on intertidal wetlands in Australia. Her PhD was part of a Joint PhD program between University of Hamburg and Macquarie University in Sydney. Since then she has worked as a post-doctoral associate at the University of Florida and is now a scholarship holder of the Professorin Rübsamen-Schaeff scholarship that promotes early career research for women in science. During her career she had the opportunity to work in different anthropogenically influenced ecosystems, i.e. managed heathlands, wetlands in proximity to urban development and agricultural landscapes.
