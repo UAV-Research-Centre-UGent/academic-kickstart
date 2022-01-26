@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Louis Daniels"
+title: "Sofie Van Nerom"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "louis-daniels"
+- "sofie-vannerom"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -20,17 +20,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# List each interest with a dash
-interests:
- - Multispectral Remote Sensing 
- - Image Analysis 
- - Machine Learning 
- - UAV
- - Plant Biochemistry 
-
 #education:
 #  courses:
 
+# List each interest with a dash
+interests:
+- Remote sensing
+- Biocontrol and -stimulants
+- Formulation of pesticides
+- Chemistry
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,4 +62,4 @@ user_groups:
 - PhD Students
 ---
 
-Louis Daniels obtained his master’s degree in Biochemical Engineering Technology in 2019. He is currently working as a PhD researcher on precision agriculture, more specifically on remote sensing of nutrient deficiencies in vineyards through multispectral imaging. His project is funded by VLAIO (Baekeland-mandate) and his promotors are Kris Audenaert (promotor), Wouter Maes (co-promotor) and Yves Dejaegher (co-promotor).
+Sofie Van Nerom obtained her master’s degree in bioscience engineering at Ghent University in 2021. She is currently working as a PhD researcher on the CLIMABIS project involving an IPM approach on the control of yellow rust and drought stress in wheat. The project is supervised by prof. Wouter Maes, prof. Pieter Spanoghe and prof. Geert Haesaert.

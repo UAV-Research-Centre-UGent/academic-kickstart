@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "SMAC"
+subtitle: "2020-2022"
 summary: "With UAV snapshot cameras, the same area is observed manifold and under a variety of different viewing angles. The standard UAV image processing software only use one of these observations to create the orthophotos – all other observations are discarded. Yet, these multi-angular data actually reveal very relevant information on canopy properties. In the SMAC (Simultaneous Measurements of leaf Area and Chlorophyll) project, we use the full multi-angular observation to generate maps of leaf area and chlorophyll content, two parameters of immediate use for precision agriculture applications."
 authors: []
 tags: []

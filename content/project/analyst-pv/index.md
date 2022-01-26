@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "ANALYST PV"
+subtitle: "2019-2021"
 summary: "ANALYST PV is an imec.icon research project funded by imec, Innoviris and Agentschap Innoveren & Ondernemen. The project aims at developing a fault diagnosis framework for PV power plants that relies on IoT sensors, AI-enabled root cause analysis and automatic image analysis. The ultimate goal is to optimize photovoltaic asset management and performance."
 authors: []
 tags: []
