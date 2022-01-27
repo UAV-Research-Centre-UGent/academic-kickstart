@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "CLIMABIS"
-subtitle: "2022-2023"
+subtitle: "2021-2024"
 summary: "CLIMABIS is a VLAIO-funded project between Ghent University and Globachem. The project includes an IPM approach to control climate-intensified biotic and abiotic stress in wheat. We will try to manage yellow rust and drought stress through a three-step approach. First, prevention by using biocontrol agents and biostimulants. Next, setting up a method to monitor the condition of crops through UAV-mounted hyperspectral and thermal cameras. And lastly, according to the principles of precision agriculture, intervention with biological products combined with a reduced amount of chemical pesticides in the affected areas of the field."
 authors: []
 tags: []
