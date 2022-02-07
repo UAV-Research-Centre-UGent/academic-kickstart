@@ -7,6 +7,10 @@ header:
   image: ""
 ---
 
+- Vlaminck, M.; Heidbuchel, R.; Philips, W.; Luong, H. (2022). **Region-Based CNN for Anomaly Detection in PV Power Plants Using Aerial Imagery**, Deep Learning Methods for Aerial Imagery, special issue of Sensors 22(3), 1244. [[link](https://www.mdpi.com/1424-8220/22/3/1244)]
+
+- Luzardo, G.; Vlaminck, M.;Lefkaditis, D.;Philips, W.;Luong, H. (2021). **GPS-Assisted Feature Matching in Aerial Images with Highly Repetitive Patterns.** IEEE International Symposium on Geoscience and Remote Sensing (IGARSS). [[link](https://biblio.ugent.be/publication/8710132)]
+
 - De Swaef, T.; Maes, W.H.; Aper, J.; Baert, J.; Cougnon, M.; Reheul, D.; Steppe, K.; Roldán-Ruiz, I.; Lootens, P. (2021). **Applying RGB- and Thermal-Based Vegetation Indices from UAVs for High-Throughput Field Phenotyping of Drought Tolerance in Forage Grasses.** Remote Sens., 13, 147. [[link](https://doi.org/10.3390/rs13010147)]
 
 - Diaz, J.J.V.; Vlaminck, M.; Lefkaditis, D.; Vargas, S.A.O.; Luong, H. (2020). **Solar panel detection within complex backgrounds using thermal images acquired by UAVs**, UAV Imagery for Engineering Applications Using Artificial Intelligence Techniques (UAV-AI), special issue of Sensors 20(21), 6219. [[link](https://www.mdpi.com/1424-8220/20/21/6219)]
