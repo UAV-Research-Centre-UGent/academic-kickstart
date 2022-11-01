@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Laurens Diels"
+title: "Jingjing Wang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "laurens-diels"
+- "jingjing-wang"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,21 +22,20 @@ bio:
 
 # List each interest with a dash
 interests:
-- Artificial Intelligence
-- Computer Vision
-- Mathematics
+- UAV Remote Sensing
+- Diagnose of Crop Water Stress and Nutrient Deficiency 
+- Variable irrigation
+- Precision Agriculture
 
-education:
-  courses:
-  - course: •	MSc in Artificial Intelligence
-    institution: KU Leuven
-    year: 2020
-  - course: MSc in Mathematics
-    institution: KU Leuven
-    year: 2017
 
 #education:
 #  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,10 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:laurens.diels@UGent.be'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/LaurensDiels/
+  link: 'mailto:wjj.agro@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +69,4 @@ user_groups:
 - PhD Students
 ---
 
-Laurens Diels received his master's degrees in Mathematics and Artificial Intelligence from KU Leuven in 2017 and 2020, respectively. He is currently working as a PhD researcher at the Image Processing and Interpretation research group (IPI) and UAV Research Center (URC) of Ghent University, with Hiep Luong and Wilfried Philips as promotors. His research focuses on the processing of hyperspectral point clouds captured from UAVs.
+Jingjing Wang is a visiting Ph.D. of UAV Research Center (URC) by China Scholarship Council (CSC). She is studying at China Agricultural University (Beijing, China), majoring in agricultural water and soil management. And she will study at URC for one year, from 7 October 2022 to 6 October 2023. Her research interests are diagnosing crop water stress and nutrient deficiency by UAV multispectral and thermal remote sensing. Her goal is to inform variable irrigation and precision fertilization.

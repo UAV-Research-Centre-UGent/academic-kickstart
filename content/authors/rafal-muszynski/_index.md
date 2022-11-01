@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Laurens Diels"
+title: "Rafal Muszynski"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "laurens-diels"
+- "rafal-muszynski"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,21 +22,21 @@ bio:
 
 # List each interest with a dash
 interests:
-- Artificial Intelligence
-- Computer Vision
-- Mathematics
+- Image registration
+- Image quality
+- Image processing on mobile devices
+- Computer vision
+- Medical image processing
 
-education:
-  courses:
-  - course: •	MSc in Artificial Intelligence
-    institution: KU Leuven
-    year: 2020
-  - course: MSc in Mathematics
-    institution: KU Leuven
-    year: 2017
 
 #education:
 #  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,10 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:laurens.diels@UGent.be'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/LaurensDiels/
+  link: 'mailto:Rafal.Muszynski@UGent.be'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +70,4 @@ user_groups:
 - PhD Students
 ---
 
-Laurens Diels received his master's degrees in Mathematics and Artificial Intelligence from KU Leuven in 2017 and 2020, respectively. He is currently working as a PhD researcher at the Image Processing and Interpretation research group (IPI) and UAV Research Center (URC) of Ghent University, with Hiep Luong and Wilfried Philips as promotors. His research focuses on the processing of hyperspectral point clouds captured from UAVs.
+Rafał Muszyński obtained his master's degree in Data Science from Warsaw University of Technology in 2020. Currently, he is working as a PhD student at the Image Processing and Interpretation group of Ghent University. His promotor is professor Hiep Luong. He is working on a project for the Barco company. His research focuses on image registration and change detection in dermatological applications. 

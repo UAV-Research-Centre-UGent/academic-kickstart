@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Laurens Diels"
+title: "Mingjing Zhao"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "laurens-diels"
+- "mingjing-zhao"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,21 +22,19 @@ bio:
 
 # List each interest with a dash
 interests:
-- Artificial Intelligence
+- Remote Sensing Processing
+- Target Detection
 - Computer Vision
-- Mathematics
-
-education:
-  courses:
-  - course: •	MSc in Artificial Intelligence
-    institution: KU Leuven
-    year: 2020
-  - course: MSc in Mathematics
-    institution: KU Leuven
-    year: 2017
+- Image Quality Improvement
 
 #education:
 #  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,10 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:laurens.diels@UGent.be'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/LaurensDiels/
+  link: 'mailto:Mingjing.Zhao@UGent.be'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +68,4 @@ user_groups:
 - PhD Students
 ---
 
-Laurens Diels received his master's degrees in Mathematics and Artificial Intelligence from KU Leuven in 2017 and 2020, respectively. He is currently working as a PhD researcher at the Image Processing and Interpretation research group (IPI) and UAV Research Center (URC) of Ghent University, with Hiep Luong and Wilfried Philips as promotors. His research focuses on the processing of hyperspectral point clouds captured from UAVs.
+Mingjing Zhao obtained her master's degree in Beijing University of Chemical Technology, China, in 2020. She is pursuing the Ph.D. degree in Beijing Institute of Technology, China. Now, she is an exchange student for one year, and her project is funded by China Scholarship Council (CSC) scholarship. Her research interests include remote sensing image processing and target detection.
