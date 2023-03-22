@@ -7,7 +7,9 @@ header:
   image: ""
 ---
 
-- Vlaminck, M.; Heidbuchel, R.; Philips, W.; Luong, H. (2022). **Region-Based CNN for Anomaly Detection in PV Power Plants Using Aerial Imagery**, Deep Learning Methods for Aerial Imagery, special issue of Sensors 22(3), 1244. [[link](https://www.mdpi.com/1424-8220/22/3/1244)]
+- Vlaminck, M.; Diels, L.; Philips, W.; Maes, W.; Heim, R.; Wit, B.D.; Luong, H. **A Multisensor UAV Payload and Processing Pipeline for Generating Multispectral Point Clouds.** Remote Sens. 2023, 15, 1524. [[link](https://doi.org/10.3390/rs15061524)]
+
+- Vlaminck, M.; Heidbuchel, R.; Philips, W.; Luong, H. (2022). **Region-Based CNN for Anomaly Detection in PV Power Plants Using Aerial Imagery.** Deep Learning Methods for Aerial Imagery, special issue of Sensors 22(3), 1244. [[link](https://www.mdpi.com/1424-8220/22/3/1244)]
 
 - Luzardo, G.; Vlaminck, M.;Lefkaditis, D.;Philips, W.;Luong, H. (2021). **GPS-Assisted Feature Matching in Aerial Images with Highly Repetitive Patterns.** IEEE International Symposium on Geoscience and Remote Sensing (IGARSS). [[link](https://biblio.ugent.be/publication/8710132)]
 
