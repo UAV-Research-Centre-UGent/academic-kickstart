@@ -11,8 +11,11 @@ header:
 
 - Van de Vijver, R., Mertens, K., Heungens, K., Nuyttens, D., Wieme, J., Maes, W.H., Van Beek, J., Somers, B., Saeys, W. (2023). **Ultra-high-resolution UAV-based detection of Alternaria solani infections in potato fields**. Remote Sens. 2022, 24, 6232 [[link](https://doi.org/10.3390/rs14246232)]
 
-
 - Vlaminck, M.; Heidbuchel, R.; Philips, W.; Luong, H. (2022). **Region-Based CNN for Anomaly Detection in PV Power Plants Using Aerial Imagery.** Deep Learning Methods for Aerial Imagery, special issue of Sensors 22(3), 1244. [[link](https://www.mdpi.com/1424-8220/22/3/1244)]
+
+- Vivero, S.; Hendrickx, H.; Frankl, A.; Delaloye, R.; Lambiel, C. (2022). **Kinematics and geomorphological changes of a destabilising rock glacier captured from close-range sensing techniques (Tsarmine rock glacier, Western Swiss Alps).** FRONTIERS IN EARTH SCIENCE, 10. [[link](https://doi.org/10.3389/feart.2022.1017949)]
+
+- Hendrickx, H.; Le Roy, G.; Helmstetter, A.; Pointner, E.; Larose, E.; Braillard, L.;Frankl, A. (2022). **Timing, volume and precursory indicators of rock- and cliff fall on a permafrost mountain ridge (Mattertal, Switzerland).** EARTH SURFACE PROCESSES AND LANDFORMS, 47, 1532–1549. [[link](https://doi.org/10.1002/esp.5333)]
 
 - Luzardo, G.; Vlaminck, M.;Lefkaditis, D.;Philips, W.;Luong, H. (2021). **GPS-Assisted Feature Matching in Aerial Images with Highly Repetitive Patterns.** IEEE International Symposium on Geoscience and Remote Sensing (IGARSS). [[link](https://biblio.ugent.be/publication/8710132)]
 
@@ -24,7 +27,11 @@ header:
 
 - Maes, W.H.; Steppe, K. (2019). **Perspectives for remote sensing with Unmanned Aerial Vehicles in precision agriculture.** Trends in Plant Science, 24 &#58; 45. [[link](https://doi.org/10.1016/j.tplants.2018.11.007)]
 
+- Hendrickx, H.; De Sloover, L.; Stal, C.; Delaloye, R.; Nyssen, J.; & Frankl, A. (2020). **Talus slope geomorphology investigated at multiple time scales from high-resolution topographic surveys and historical aerial photographs (Sanetsch Pass, Switzerland).** EARTH SURFACE PROCESSES AND LANDFORMS, 45(14), 3653–3669. [[link](https://doi.org/10.1002/esp.4989)]
+
 - Maes, W.H.; Huete, A.R.; Avino, M.; Boer, M.M.; Dehaan, R.; Pendall, E.; Griebel, A.; Steppe, K. (2018). **Can UAV-based infrared thermography be used to study plant-parasite interactions between mistletoe and eucalypt trees?** Remote Sensing, 12 &#58; 2062 [[link](https://doi.org/10.3390/rs10122062)]
+
+- Hendrickx, H.; Vivero, S.; De Cock, L.; De Wit, B.; De Maeyer, P.; Lambiel, C.; Frankl, A. (2019). **The reproducibility of SfM algorithms to produce detailed Digital Surface Models : the example of PhotoScan applied to a high-alpine rock glacier.** REMOTE SENSING LETTERS, 10(1), 11–20. [[link](https://doi.org/10.1080/2150704X.2018.1519641)]
 
 - Maes, W.H.; Huete, A.R.; Steppe, K. (2017). **Optimizing the processing of UAV-based thermal imagery.** Remote Sensing, 9 &#58; 476. [[link](https://doi.org/10.3390/rs9050476)]
 
