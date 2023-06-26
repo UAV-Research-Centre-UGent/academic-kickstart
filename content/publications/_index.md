@@ -7,6 +7,8 @@ header:
   image: ""
 ---
 
+- Daniels, L.; Eeckhout, E.; Wieme, J.; Dejaegher, Y.; Audenaert, K.; Maes, W.H. **Identifying the optimal radiometric calibration method for UAV-based multispectral imaging.** Remote Sens. 2023, 15, 2909. [[link](https://doi.org/10.3390/rs15112909)]
+
 - Vlaminck, M.; Diels, L.; Philips, W.; Maes, W.; Heim, R.; Wit, B.D.; Luong, H. **A Multisensor UAV Payload and Processing Pipeline for Generating Multispectral Point Clouds.** Remote Sens. 2023, 15, 1524. [[link](https://doi.org/10.3390/rs15061524)]
 
 - Van de Vijver, R., Mertens, K., Heungens, K., Nuyttens, D., Wieme, J., Maes, W.H., Van Beek, J., Somers, B., Saeys, W. (2023). **Ultra-high-resolution UAV-based detection of Alternaria solani infections in potato fields**. Remote Sens. 2022, 24, 6232 [[link](https://doi.org/10.3390/rs14246232)]
