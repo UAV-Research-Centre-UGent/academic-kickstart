@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Dembel Gebeyehu"
+title: "Kiara Haegeman"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "gebeyehu"
+- "kiara-haegeman"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -22,11 +22,12 @@ bio:
 
 # List each interest with a dash
 interests:
-- Multispectral remote sensing
-- High resolution remote sensing
-- UAV
-- Inland Water Quality
-- Limnology       
+- Soil erosion
+- Hydrology
+- Hydrological modelling
+- Landscape connectivity
+- Remote sensing
+- Soil physics
 
 #education:
 #  courses:
@@ -44,7 +45,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:Dembel.Gebeyehu@UGent.be'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:Kiara.Haegeman@UGent.be'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
@@ -61,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "Dembel.Gebeyehu@UGent.be"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,5 +70,4 @@ user_groups:
 - PhD Students
 ---
 
-Dembel Bonta Gebeyehu obtained his master’s degree in Geography (GIS, Remote Sensing and Digital Cartography) at Addis Ababa University in 2017.  He is currently working as a PhD researcher on Remote Sensing for Inland Lake Water Quality. Specifically, on high resolution remote sensing for water quality monitoring in the great lake region of Ethiopia. His project is funded by VLIR-OUS Scholarship (Sandwich program).
-He is jointly supervised by Professors Wouter Maes (Ghent University), Luc De Meester (Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB) and KU Leuven University), and Fassil Eshetu (Arba Minch University).
+Kiara Haegeman obtained her master’s degree in Geography at Ghent University in 2021. In 2023, she obtained a second master’s degree in Soil Science and Global Change with a specialisation in physical land resources. Since September 1st 2023, she is working as a teaching and research assistant at the department of Geography (Ghent University), while kickstarting her PhD project focused on enhancing the resilience of agricultural landscapes in Flanders against extreme rainfall events.

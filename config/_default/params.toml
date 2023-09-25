@@ -100,7 +100,7 @@ address = {street = "Coupure Links 653", city = "Gent", postcode = "9000", count
 coordinates = {latitude = "51.053450", longitude = "3.708780"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building A and take the stairs to Office A2.060 on Floor 2"
+directions = "Enter Building A and take the stairs to Office A2.062 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

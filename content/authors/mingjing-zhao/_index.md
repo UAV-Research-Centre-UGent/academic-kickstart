@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Visitors
 ---
 
 Mingjing Zhao obtained her master's degree in Beijing University of Chemical Technology, China, in 2020. She is pursuing the Ph.D. degree in Beijing Institute of Technology, China. Now, she is an exchange student for one year, and her project is funded by China Scholarship Council (CSC) scholarship. Her research interests include remote sensing image processing and target detection.
