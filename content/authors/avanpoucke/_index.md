@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Louis Daniels"
+title: "Ambroos Van Poucke"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "louis-daniels"
+- "avanpoucke"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoctoral researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,15 +22,19 @@ bio:
 
 # List each interest with a dash
 interests:
- - Multispectral Remote Sensing 
- - Image Analysis 
- - Machine Learning 
- - UAV
- - Plant Biochemistry 
+- Deep learning
+- UAV remote sensing
+- Site-specific weed management
+- Plant biotechnology
 
-#education:
-#  courses:
-
+# education:
+#   courses:
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,16 +43,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=PERSON-ID
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/USERNAME
+  link: 'mailto:Ambroos.VanPoucke@UGent.be'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/USERNAME
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=PERSON-ID
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Researchers
+- PhD Students
 ---
 
-Louis Daniels obtained his master’s degree in Biochemical Engineering Technology in 2019. He is currently working as a PhD researcher on precision agriculture, more specifically on remote sensing of nutrient deficiencies in vineyards through multispectral imaging. His project is funded by VLAIO (Baekeland-mandate) and his promotors are Kris Audenaert (promotor), Wouter Maes (co-promotor) and Yves Dejaegher (co-promotor).
+Ambroos Van Poucke obtained his master’s degree in Biochemical Engineering Technology in 2023. He is currently working as a PhD researcher on the Horizon Europe project GOOD. He is involved in developing a method that can automatically identify, classify and map weeds based on high-resolution RGB and multispectral drone imagery. His promotors are Wouter Maes (promotor) and Jan Verwaeren (co-promotor).

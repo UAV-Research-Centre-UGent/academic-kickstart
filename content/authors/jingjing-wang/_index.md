@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Visitors
 ---
 
 Jingjing Wang is a visiting Ph.D. of UAV Research Center (URC) by China Scholarship Council (CSC). She is studying at China Agricultural University (Beijing, China), majoring in agricultural water and soil management. And she will study at URC for one year, from 7 October 2022 to 6 October 2023. Her research interests are diagnosing crop water stress and nutrient deficiency by UAV multispectral and thermal remote sensing. Her goal is to inform variable irrigation and precision fertilization.

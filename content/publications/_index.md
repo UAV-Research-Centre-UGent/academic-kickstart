@@ -7,11 +7,19 @@ header:
   image: ""
 ---
 
+- Missarov, A.; Sosnovsky, Y.; Rydlo, K.; Brovkina, O.; Maes, W.H.; Kral, K.; Krucek, M.; Krasylenko, Y. **Vertical botany: airborne remote sensing as an emerging tool for mistletoe research**. Botany, 2023. [[link](https://doi.org/10.1139/cjb-2023-0049)]
+
+- Wang, J.J., Lou, Y., Wang, W.T.; Liu, S.Y.; Zhang, H.H.; Hui, X.; Wang, Y.L.; Yan, H.J., Maes, W.H. **A robust model for diagnosing water stress of winter wheat by combining UAV multispectral and thermal remote sensing.** Agricultural water management 291:108616, 2024. [[link](https://doi.org/10.1016/j.agwat.2023.108616)]
+
+- Wieme, J.; Leroux, S.; Cool, S.R.; Pieters, J.G.; Van Beek, J.; Maes, W.H. **Ultra-high resolution UAV imaging and supervised deep learning for accurate detection of Alternaria solani in Potato fields**. Frontiers in Plant Science 15: 1206998, 2024. [[link](https://doi.org/10.3389/fpls.2024.1206998)]
+
+- Heim, R.; Okole, N.; Steppe, K.; van Labeke, M-C.; Geedicke, I.; Maes, W.H. **An applied framework to unlocking multi-angular UAV reflectance data: A case study for classification of plant parameters in maize (Zea mays)**. Precision Agriculture, 2024. [[link](https://doi.org/10.1007/s11119-024-10133-0)]
+
 - Daniels, L.; Eeckhout, E.; Wieme, J.; Dejaegher, Y.; Audenaert, K.; Maes, W.H. **Identifying the optimal radiometric calibration method for UAV-based multispectral imaging.** Remote Sens. 2023, 15, 2909. [[link](https://doi.org/10.3390/rs15112909)]
 
 - Vlaminck, M.; Diels, L.; Philips, W.; Maes, W.; Heim, R.; Wit, B.D.; Luong, H. **A Multisensor UAV Payload and Processing Pipeline for Generating Multispectral Point Clouds.** Remote Sens. 2023, 15, 1524. [[link](https://doi.org/10.3390/rs15061524)]
 
-- Van de Vijver, R., Mertens, K., Heungens, K., Nuyttens, D., Wieme, J., Maes, W.H., Van Beek, J., Somers, B., Saeys, W. (2023). **Ultra-high-resolution UAV-based detection of Alternaria solani infections in potato fields**. Remote Sens. 2022, 24, 6232 [[link](https://doi.org/10.3390/rs14246232)]
+- Van de Vijver, R.; Mertens, K.; Heungens, K.; Nuyttens, D.; Wieme, J.; Maes, W.H.; Van Beek, J.; Somers, B.; Saeys, W. (2023). **Ultra-high-resolution UAV-based detection of Alternaria solani infections in potato fields**. Remote Sens. 2022, 24, 6232 [[link](https://doi.org/10.3390/rs14246232)]
 
 - Vlaminck, M.; Heidbuchel, R.; Philips, W.; Luong, H. (2022). **Region-Based CNN for Anomaly Detection in PV Power Plants Using Aerial Imagery.** Deep Learning Methods for Aerial Imagery, special issue of Sensors 22(3), 1244. [[link](https://www.mdpi.com/1424-8220/22/3/1244)]
 
