@@ -7,13 +7,13 @@ header:
   image: ""
 ---
 
-- Missarov, A.; Sosnovsky, Y.; Rydlo, K.; Brovkina, O.; Maes, W.H.; Kral, K.; Krucek, M.; Krasylenko, Y. **Vertical botany: airborne remote sensing as an emerging tool for mistletoe research**. Botany, 2023. [[link](https://doi.org/10.1139/cjb-2023-0049)]
-
 - Wang, J.J., Lou, Y., Wang, W.T.; Liu, S.Y.; Zhang, H.H.; Hui, X.; Wang, Y.L.; Yan, H.J., Maes, W.H. **A robust model for diagnosing water stress of winter wheat by combining UAV multispectral and thermal remote sensing.** Agricultural water management 291:108616, 2024. [[link](https://doi.org/10.1016/j.agwat.2023.108616)]
 
 - Wieme, J.; Leroux, S.; Cool, S.R.; Pieters, J.G.; Van Beek, J.; Maes, W.H. **Ultra-high resolution UAV imaging and supervised deep learning for accurate detection of Alternaria solani in Potato fields**. Frontiers in Plant Science 15: 1206998, 2024. [[link](https://doi.org/10.3389/fpls.2024.1206998)]
 
 - Heim, R.; Okole, N.; Steppe, K.; van Labeke, M-C.; Geedicke, I.; Maes, W.H. **An applied framework to unlocking multi-angular UAV reflectance data: A case study for classification of plant parameters in maize (Zea mays)**. Precision Agriculture, 2024. [[link](https://doi.org/10.1007/s11119-024-10133-0)]
+
+- Missarov, A.; Sosnovsky, Y.; Rydlo, K.; Brovkina, O.; Maes, W.H.; Kral, K.; Krucek, M.; Krasylenko, Y. **Vertical botany: airborne remote sensing as an emerging tool for mistletoe research**. Botany, 2023. [[link](https://doi.org/10.1139/cjb-2023-0049)]
 
 - Daniels, L.; Eeckhout, E.; Wieme, J.; Dejaegher, Y.; Audenaert, K.; Maes, W.H. **Identifying the optimal radiometric calibration method for UAV-based multispectral imaging.** Remote Sens. 2023, 15, 2909. [[link](https://doi.org/10.3390/rs15112909)]
 
