@@ -7,6 +7,10 @@ header:
   image: ""
 ---
 
+- Lauwers, M.; De Cauwer, B.; Nuyttens, D.; Maes, W.H.; Pieters, J.G. (2024) **Multispectral UAV image classification of jimson weed (Datura stramonium L.) in common bean (Phaseolus vulgaris L.)**. Remote Sensing, 16, 3538. [[link](https://doi.org/10.3390/rs16183538)]
+
+- Mngadi, M.; Germishuizen, I.; Onisimo, M.; Naicker, R.; Maes, W.H.; Odebiri, O.; Schroder, M. (2024) **A systematic review of the application of remote sensing technologies in mapping forest insect pests and diseases at a tree level**. Remote Sensing Applications: Society and Environment, 36, 101341. [[link](https://doi.org/10.1016/j.rsase.2024.101341)]
+
 - Wang, J.J., Lou, Y., Wang, W.T.; Liu, S.Y.; Zhang, H.H.; Hui, X.; Wang, Y.L.; Yan, H.J., Maes, W.H. **A robust model for diagnosing water stress of winter wheat by combining UAV multispectral and thermal remote sensing.** Agricultural water management 291:108616, 2024. [[link](https://doi.org/10.1016/j.agwat.2023.108616)]
 
 - Wieme, J.; Leroux, S.; Cool, S.R.; Pieters, J.G.; Van Beek, J.; Maes, W.H. **Ultra-high resolution UAV imaging and supervised deep learning for accurate detection of Alternaria solani in Potato fields**. Frontiers in Plant Science 15: 1206998, 2024. [[link](https://doi.org/10.3389/fpls.2024.1206998)]
