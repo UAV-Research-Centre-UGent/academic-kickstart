@@ -18,7 +18,6 @@ subtitle = ""
                  "PhD Students",
                  "Administration",
                  "Visitors",
-                 "Affiliated Members",
                  "Alumni"]
 
 [design]
@@ -55,3 +54,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
