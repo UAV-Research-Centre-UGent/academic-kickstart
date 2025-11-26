@@ -18,11 +18,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+bio: Xiuni Li is a visiting Ph.D. student sponsored by the China Scholarship Council (CSC) at the Unmanned Aerial Vehicle Research Center (URC). She is pursuing her doctoral degree in Crop Science at Sichuan Agricultural University (Chengdu). From October 2024 to September 2025, she will conduct a one-year research visit at URC. Her research focuses on digital phenotyping and plant architecture modeling of soybean using high-throughput phenotyping techniques, as well as developing machine learning and artificial intelligence models. The aim is to provide key technological support for smart soybean breeding and precision cultivation.
 
 # # List each interest with a dash
-# interests:
-# - Remote sensing
+interests:
+  - Machine Learning
+  - Soybean Plant Architecture
+  - Abiotic Stress
+  - Precision Agriculture
+
+
 
 # education:
 #   courses:
@@ -65,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->
+Xiuni Li is a visiting Ph.D. student sponsored by the China Scholarship Council (CSC) at the Unmanned Aerial Vehicle Research Center (URC). She is pursuing her doctoral degree in Crop Science at Sichuan Agricultural University (Chengdu). 
+
+From October 2024 to September 2025, she will conduct a one-year research visit at URC. Her research focuses on digital phenotyping and plant architecture modeling of soybean using high-throughput phenotyping techniques, as well as developing machine learning and artificial intelligence models. The aim is to provide key technological support for smart soybean breeding and precision cultivation.
