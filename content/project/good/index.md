@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "GOOD"
-subtitle: "2023-2027"
+subtitle: "Horizon Europe RIA (2023-2027)"
 summary: "GOOD is a Horizon Europe project that aims to co-create, test, assess and demonstrate innovative and sustainable Agroecological Weed Management (AWM) solutions & to encourage a long-term and large-scale transition to sustainable biodiversity-based agri-food systems through the development of the first Agroecological Weed Management Network (AWMN). We are involved to develop a method that can automatically identify, classify and map weeds based on high resolution RGB and multispectral drone imagery. "
-authors: []
+authors: [] # [avanpoucke]
 tags: []
 categories: []
 date: 2023-08-21T11:51:25+02:00
