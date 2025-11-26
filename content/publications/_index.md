@@ -7,15 +7,58 @@ header:
   image: ""
 ---
 
-- Lauwers, M.; De Cauwer, B.; Nuyttens, D.; Maes, W.H.; Pieters, J.G. (2024) **Multispectral UAV image classification of jimson weed (Datura stramonium L.) in common bean (Phaseolus vulgaris L.)**. Remote Sensing, 16, 3538. [[link](https://doi.org/10.3390/rs16183538)]
+<style>
+html, body {
+    margin: 5;
+    padding: 0;
+    height: 95%;
+    overflow: hidden;
+}
 
-- Mngadi, M.; Germishuizen, I.; Onisimo, M.; Naicker, R.; Maes, W.H.; Odebiri, O.; Schroder, M. (2024) **A systematic review of the application of remote sensing technologies in mapping forest insect pests and diseases at a tree level**. Remote Sensing Applications: Society and Environment, 36, 101341. [[link](https://doi.org/10.1016/j.rsase.2024.101341)]
+.publication-container {
+    height: calc(100vh - 200px); /* Adjust based on your header height */
+    max-width: 1200px;
+    margin: 20px auto;
+    /* box-shadow: 0 4px 12px rgba(0,0,0,0.1); */
+    border-radius: 12px;
+    overflow: hidden;
+    background: white;
+}
 
-- Wang, J.J., Lou, Y., Wang, W.T.; Liu, S.Y.; Zhang, H.H.; Hui, X.; Wang, Y.L.; Yan, H.J., Maes, W.H. **A robust model for diagnosing water stress of winter wheat by combining UAV multispectral and thermal remote sensing.** Agricultural water management 291:108616, 2024. [[link](https://doi.org/10.1016/j.agwat.2023.108616)]
+.publication-container iframe {
+    width: 100%;
+    height: 90%;
+    border: none;
+    display: block;
+}
+</style>
 
-- Wieme, J.; Leroux, S.; Cool, S.R.; Pieters, J.G.; Van Beek, J.; Maes, W.H. **Ultra-high resolution UAV imaging and supervised deep learning for accurate detection of Alternaria solani in Potato fields**. Frontiers in Plant Science 15: 1206998, 2024. [[link](https://doi.org/10.3389/fpls.2024.1206998)]
+<div class="publication-container">
+    <iframe 
+        src="https://biblio.ugent.be/publication?q=author+exact+802000895365+or+author+exact+801001749087&sort=year.desc&sort=datecreated.desc&embed=1"
+        title="Publications"
+    ></iframe>
+</div>
 
-- Heim, R.; Okole, N.; Steppe, K.; van Labeke, M-C.; Geedicke, I.; Maes, W.H. **An applied framework to unlocking multi-angular UAV reflectance data: A case study for classification of plant parameters in maize (Zea mays)**. Precision Agriculture, 2024. [[link](https://doi.org/10.1007/s11119-024-10133-0)]
+<!-- - Wang, J., Wang, W., Liu, S., Hui, X., Zhang, H., Yan, H., Maes, W.H. (2025) **UAV−based multiple sensors for enhanced data fusion and Nitrogen monitoring in winter wheat across growth seasons.** *Remote Sensing*, 17, 498 [[Link](https://doi.org/10.3390/rs17030498)]
+
+- Maes, W.H. (2025) **Practical guidelines for performing UAV mapping flights with snapshot sensors.** *Remote Sensing*, 17, 606 [[Link](https://doi.org/10.3390/rs17040606)] 
+
+- Li, X.; Chen, M.; He, S.; Xu, X.; Shao, P.; Su, Y.; He, L.; Qiao, J.; Xu, M.; Zhao, Y, Yang, W., Maes, W.H., Liu, W. (2025) **Optimization of the Canopy Three-Dimensional Reconstruction Method for Intercropped Soybeans and Early Yield Prediction.** Agriculture 2025, 15, 729. [[Link](https://doi.org/10.3390/agriculture15070729)]
+
+- Nzuza, P, Schröder, M., Heim, R., Daniels, L., Slippers, B., Hurley, B., Germishuizen, I., Sivparsad, B., Roux, J., Maes, W.H. (2025) **Assessing Gonipterus sp. n. 2 defoliation levels using multispectral Unmanned Aerial Vehicle data in Eucalyptus plantations.** *Ecological Informatics* , 90, 103301[[Link](https://doi.org/10.1016/j.ecoinf.2025.103301)] 
+
+- Liu, X. Z. , De Cock, A., Ho, L., Pham, K., Panique-Casso, D., Forio, M.A., Maes, W.H., Goethals, P.L. (2025) Mapping waterbird habitats with UAV-derived 2D orthomosaic along Belgium's Lieve canal. *Remote Sensing*, 17, 2602 [[Link](https://doi.org/10.3390/rs17152602)] 
+
+- Lauwers, M.; De Cauwer, B.; Nuyttens, D.; Maes, W.H.; Pieters, J.G. (2024) **Multispectral UAV image classification of jimson weed (*Datura stramonium* L.) in common bean (*Phaseolus vulgaris* L.)**. *Remote Sensing*, 16, 3538. [[link](https://doi.org/10.3390/rs16183538)]
+
+- Mngadi, M.; Germishuizen, I.; Onisimo, M.; Naicker, R.; Maes, W.H.; Odebiri, O.; Schroder, M. (2024) **A systematic review of the application of remote sensing technologies in mapping forest insect pests and diseases at a tree level**. *Remote Sensing Applications: Society and Environment*, 36, 101341. [[link](https://doi.org/10.1016/j.rsase.2024.101341)]
+
+- Wang, J.J., Lou, Y., Wang, W.T.; Liu, S.Y.; Zhang, H.H.; Hui, X.; Wang, Y.L.; Yan, H.J., Maes, W.H. **A robust model for diagnosing water stress of winter wheat by combining UAV multispectral and thermal remote sensing.** *Agricultural water management* 291:108616, 2024. [[link](https://doi.org/10.1016/j.agwat.2023.108616)]
+
+- Wieme, J.; Leroux, S.; Cool, S.R.; Pieters, J.G.; Van Beek, J.; Maes, W.H. **Ultra-high resolution UAV imaging and supervised deep learning for accurate detection of Alternaria solani in Potato fields**. *Frontiers in Plant Science* 15: 1206998, 2024. [[link](https://doi.org/10.3389/fpls.2024.1206998)]
+
+- Heim, R.; Okole, N.; Steppe, K.; van Labeke, M-C.; Geedicke, I.; Maes, W.H. **An applied framework to unlocking multi-angular UAV reflectance data: A case study for classification of plant parameters in maize (Zea mays)**. *Precision Agriculture*, 2024. [[link](https://doi.org/10.1007/s11119-024-10133-0)]
 
 - Missarov, A.; Sosnovsky, Y.; Rydlo, K.; Brovkina, O.; Maes, W.H.; Kral, K.; Krucek, M.; Krasylenko, Y. **Vertical botany: airborne remote sensing as an emerging tool for mistletoe research**. Botany, 2023. [[link](https://doi.org/10.1139/cjb-2023-0049)]
 
@@ -49,4 +92,4 @@ header:
 
 - Maes, W.H.; Huete, A.R.; Steppe, K. (2017). **Optimizing the processing of UAV-based thermal imagery.** Remote Sensing, 9 &#58; 476. [[link](https://doi.org/10.3390/rs9050476)]
 
-- Cleverly, J.; Eamus, D.; Restrepo Coupe, N.; Chen, C.; Maes, W. H.; Li, L.; Faux, R.; Santini, N.S.; Rumman, R.; Yu, Q.; Huete, A.R. (2016). **Soil moisture controls on phenology and productivity in semi-arid critical zone.** Science of the Total Environment, 568 &#58; 1227-1237. [[link](https://doi.org/10.1016/j.scitotenv.2016.05.142)]
+- Cleverly, J.; Eamus, D.; Restrepo Coupe, N.; Chen, C.; Maes, W. H.; Li, L.; Faux, R.; Santini, N.S.; Rumman, R.; Yu, Q.; Huete, A.R. (2016). **Soil moisture controls on phenology and productivity in semi-arid critical zone.** Science of the Total Environment, 568 &#58; 1227-1237. [[link](https://doi.org/10.1016/j.scitotenv.2016.05.142)] -->
