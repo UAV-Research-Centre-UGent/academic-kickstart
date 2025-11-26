@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "FOLOU"
-subtitle: "2023-2027"
+subtitle: "Horizon Europe RIA (2023-2027)"
 summary: "FOLOU is a Horizon Europe projected focusing on monitoring and reducing food losses. As one of the project partners, the URC is coordinating a work package on the development and validation of innovative tools to measure and estimate food losses. We will directly measurements of yield and yield losses in fruit orchards and vegetables, using high resolution RGB drone images. Further, we will also contribute to estimating yield losses in potato with remote sensing technology."
-authors: []
+authors: [] # [aamar, drissenn]
 tags: []
 categories: []
 date: 2023-08-21T11:44:33+02:00
