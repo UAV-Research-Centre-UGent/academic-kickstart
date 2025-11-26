@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "FOODture"
-subtitle: "2025-2028"
+subtitle: "Horizon Europe RIA (2025-2028)"
 summary: "FOODTure is a Horizon Europe RIA Project that focuses on the sustainability of our food systems. By developing Europe’s largest database of Life Cycle Inventories (LCIs) for food products and integrating technologies like satellite data, drone monitoring, and spatial analysis, FOODTURE makes the invisible impacts of food visible. This empowers farmers, businesses, policymakers, and researchers to make better-informed decisions – from field to fork. Our role in the project is to lead a Work Package in which remote sensing databases and technologies are integrated in the LCA methodology.  "
-authors: []
+authors: [] #[cdebien, lchojnacki]
 tags: []
 categories: []
 date: 2025-01-01T17:25:59+01:00
