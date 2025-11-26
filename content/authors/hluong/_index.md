@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: Professor
+weight: 15
 
 # Organizations/Affiliations
 organizations:
