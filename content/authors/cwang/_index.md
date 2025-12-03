@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+bio: Chu Wang is a visiting Ph.D. student at the UAV Research Center (URC) of Ghent University, supported by the China Scholarship Council (CSC). He is currently studying at China Agricultural University (Beijing, China), majoring in grass science. He will carry out joint research at URC for one year, from October 2024 to October 2025. His research interests include water management in turf and forage seed production, diagnosing crop water stress using UAV multispectral and thermal remote sensing, and crop water–yield modeling to support variable irrigation and precision water management.
 
 # # List each interest with a dash
 # interests:
@@ -64,5 +64,4 @@ email: "Chu.WangChu@UGent.be"
 user_groups:
 - Visitors
 ---
-<!-- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->
+Chu Wang is a visiting Ph.D. student at the UAV Research Center (URC) of Ghent University, supported by the China Scholarship Council (CSC). He is currently studying at China Agricultural University (Beijing, China), majoring in grass science. He will carry out joint research at URC for one year, from October 2024 to October 2025. His research interests include water management in turf and forage seed production, diagnosing crop water stress using UAV multispectral and thermal remote sensing, and crop water–yield modeling to support variable irrigation and precision water management.
