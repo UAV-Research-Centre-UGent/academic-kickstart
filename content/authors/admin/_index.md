@@ -38,7 +38,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://be.linkedin.com/in/urc-ugent-931024390
+  link: https://www.linkedin.com/company/uav-research-centre/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=
