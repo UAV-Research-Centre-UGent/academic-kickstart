@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Aurélie Vandenbussche obtained her master’s degree in Bioscience Engineering in 2023, specialising in Forest and Nature Management. She is currently working as a PhD researcher on the Blue4Green Project in Bruges. This project focuses on climate-smart urban tree management in Bruges. Her promoters are Kris Verheyen, Kathy Steppe and Wouter Maes.
 
 # List each interest with a dash
 # interests:
@@ -64,4 +64,4 @@ email: ""
 user_groups:
 - PhD Students
 ---
-
+Aurélie Vandenbussche obtained her master’s degree in Bioscience Engineering in 2023, specialising in Forest and Nature Management. She is currently working as a PhD researcher on the Blue4Green Project in Bruges. This project focuses on climate-smart urban tree management in Bruges. Her promoters are Kris Verheyen, Kathy Steppe and Wouter Maes.
