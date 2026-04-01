@@ -35,7 +35,7 @@ html, body {
 
 <div class="publication-container">
     <iframe 
-        src="https://biblio.ugent.be/publication?embed=1&q=%22Vinicius+Dos+Santos+Carreira%22+OR+%22Jingjing+Wang%22+OR+%22Mingjing+Zhao%22+OR+%22Chu+Wang%22+OR+%22Xiuni+Li%22+OR+%22Rafal+Muszynski%22+OR+%22Sizwe+Mthembu%22+OR+%22Kiara+Haegeman%22+OR+%22Laurens+Diels%22+OR+%22Lucas+Chojnacki%22+OR+%22Masresha+Birarai%22+OR+%22Phumlani+Nzuza%22+OR+%22Eline+Eeckhout%22+OR+%22Feven+Kinfe%22+OR+%22Gonzalo+Luzardo%22+OR+%22Haijin+Zeng%22+OR+%22Jana+Wieme%22+OR+%22Ambroos+Van+Poucke%22+OR+%22Aur%C3%A9lie+Vandenbussche%22+OR+%22Aya+Amar%22+OR+%22Cedric+Debien%22+OR+%22Charles+Hamesse%22+OR+%22Driss+En-Nejjary%22+OR+%22Louis+Daniels%22+OR+%22Michiel+Vlaminck%22+OR+%22Wouter+Maes%22+OR+%22Hiep+Luong%22+OR+%22Amaury+Frankl%22&amp;style=apa"
+        src="https://biblio.ugent.be/publication?embed=1&q=%22Vinicius+Dos+Santos+Carreira%22+OR+%22Jingjing+Wang%22+OR+%22Mingjing+Zhao%22+OR+%22Chu+Wang%22+OR+%22Xiuni+Li%22+OR+%22Rafal+Muszynski%22+OR+%22Sizwe+Mthembu%22+OR+%22Kiara+Haegeman%22+OR+%22Laurens+Diels%22+OR+%22Lucas+Chojnacki%22+OR+%22Masresha+Birarai%22+OR+%22Phumlani+Nzuza%22+OR+%22Eline+Eeckhout%22+OR+%22Feven+Kinfe%22+OR+%22Gonzalo+Luzardo%22+OR+%22Haijin+Zeng%22+OR+%22Jana+Wieme%22+OR+%22Ambroos+Van+Poucke%22+OR+%22Aur%C3%A9lie+Vandenbussche%22+OR+%22Aya+Amar%22+OR+%22Cedric+Debien%22+OR+%22Charles+Hamesse%22+OR+%22Driss+En-Nejjary%22+OR+%22Louis+Daniels%22+OR+%22Michiel+Vlaminck%22+OR+%22Wouter+Maes%22+OR+%22Hiep+Luong%22&amp;style=apa"
         title="Publications"
     ></iframe>
 </div>
