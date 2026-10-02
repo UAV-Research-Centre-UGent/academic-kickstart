@@ -61,5 +61,5 @@ user_groups:
 - Technical Staff
 ---
 
-Nick joined the URC as technical drone support after a 15-year career in Belgian Defence, where he worked in operational intelligence, electronic warfare and C4ISR. 
-At the URC, he supports day-to-day drone operations. He also provides technical support to other members of the Department of Plants and Crops.
+<p style="text-align:justify;"> Nick joined the URC as technical drone support after a 15-year career in Belgian Defence, where he worked in operational intelligence, electronic warfare and C4ISR. 
+At the URC, he supports day-to-day drone operations. He also provides technical support to other members of the Department of Plants and Crops.  </p>
