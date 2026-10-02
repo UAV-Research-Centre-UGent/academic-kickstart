@@ -22,11 +22,6 @@ bio: Emma Van den Heede obtained her master’s degree in Bioscience Engineering
 
 
 # List each interest with a dash
-interests:
-- UAV remote sensing
-- Hyperspectral imaging
-- IPM
-- Crop protection chemistry
 
 #education:
 #  courses:
@@ -69,6 +64,6 @@ user_groups:
 - PhD Students
 ---
 
-<p style="text-align:justify;"> Emma Van den Heede obtained her master’s degree in Bioscience Engineering, with a focus on Agricultural Sciences, from Ghent University. Since October 2026, she has been working as a teaching assistant and PhD researcher at the Department of Plants and Crops (Ghent University). </p>
+<p style="text-align:justify;"> Emma Van den heede obtained her master’s degree in Bioscience Engineering, with a focus on Agricultural Sciences, from Ghent University. Since October 2026, she has been working as a teaching assistant and PhD researcher at the Department of Plants and Crops (Ghent University). </p>
 
 <p style="text-align:justify;"> Her research focuses on mixed cropping systems, with particular interest in their effects on biodiversity and their interactions with biotic and abiotic stresses. Through her PhD research, she aims to better understand how mixed cropping can contribute to more resilient and sustainable agricultural systems. </p>
