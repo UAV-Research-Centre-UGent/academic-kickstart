@@ -62,6 +62,6 @@ email: "Chu.WangChu@UGent.be"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Visiting Researchers
 ---
 Chu Wang is a visiting Ph.D. student at the UAV Research Center (URC) of Ghent University, supported by the China Scholarship Council (CSC). He is currently studying at China Agricultural University (Beijing, China), majoring in grass science. He will carry out joint research at URC for one year, from October 2024 to October 2025. His research interests include water management in turf and forage seed production, diagnosing crop water stress using UAV multispectral and thermal remote sensing, and crop water–yield modeling to support variable irrigation and precision water management.

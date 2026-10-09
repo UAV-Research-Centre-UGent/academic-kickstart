@@ -69,11 +69,11 @@ math = false
 diagram = false
 
 # Privacy pack
-#   Show a cookie consent message to visitors
+#   Show a cookie consent message to Visiting Researchers
 #   Anonymize IP in Google Analytics (if enabled)
 privacy_pack = false
 
-# Enable visitors to edit pages?
+# Enable Visiting Researchers to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
@@ -99,7 +99,7 @@ address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
-# Directions for visitors to locate you.
+# Directions for Visiting Researchers to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours

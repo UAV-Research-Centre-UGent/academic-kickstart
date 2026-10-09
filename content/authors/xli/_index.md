@@ -67,7 +67,7 @@ email: "Xiuni.Li@UGent.be"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Visiting Researchers
 ---
 
 Xiuni Li is a visiting Ph.D. student sponsored by the China Scholarship Council (CSC) at the Unmanned Aerial Vehicle Research Center (URC). She is pursuing her doctoral degree in Crop Science at Sichuan Agricultural University (Chengdu). 
